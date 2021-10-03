@@ -6,6 +6,210 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>1044C7B3-1313-4CB6-82DF-F02E20408B24</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1044C7B3-1313-4CB6-82DF-F02E20408B24.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654857082.593032</real>
+			<key>timeStoppedRecording</key>
+			<real>654857083.66002905</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1044C7B3-1313-4CB6-82DF-F02E20408B24</string>
+		</dict>
+		<key>179EE325-E719-40F4-A82F-C729C3E3620E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>179EE325-E719-40F4-A82F-C729C3E3620E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654734798.47971201</real>
+			<key>timeStoppedRecording</key>
+			<real>654734807.846192</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>179EE325-E719-40F4-A82F-C729C3E3620E</string>
+		</dict>
+		<key>1AFA3CD7-D994-4D9B-85D7-EB4FEC35B9E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1AFA3CD7-D994-4D9B-85D7-EB4FEC35B9E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654390046.39691198</real>
+			<key>timeStoppedRecording</key>
+			<real>654390047.23674703</real>
+			<key>title</key>
+			<string>Clean MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1AFA3CD7-D994-4D9B-85D7-EB4FEC35B9E4</string>
+		</dict>
+		<key>26B7FD42-30E1-48BE-928E-8D17EED1EC9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26B7FD42-30E1-48BE-928E-8D17EED1EC9F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654857123.97705102</real>
+			<key>timeStoppedRecording</key>
+			<real>654857126.66319203</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>26B7FD42-30E1-48BE-928E-8D17EED1EC9F</string>
+		</dict>
+		<key>316061F9-67C0-4C5A-8A7A-E336F77D946C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>316061F9-67C0-4C5A-8A7A-E336F77D946C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654344488.69305503</real>
+			<key>timeStoppedRecording</key>
+			<real>654344494.48472297</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>316061F9-67C0-4C5A-8A7A-E336F77D946C</string>
+		</dict>
+		<key>40765597-E27B-446A-9ED9-24C21106B1E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40765597-E27B-446A-9ED9-24C21106B1E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654347130.09545398</real>
+			<key>timeStoppedRecording</key>
+			<real>654347132.70018697</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>40765597-E27B-446A-9ED9-24C21106B1E0</string>
+		</dict>
 		<key>6094D059-8AC3-4EBF-AD8E-6522CFC0B785</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +277,176 @@
 			<string>Build MenuBarSampleApp</string>
 			<key>uniqueIdentifier</key>
 			<string>60FA6659-26EF-4C4B-BE6E-B9AFA44A7308</string>
+		</dict>
+		<key>63218447-20CE-4770-9758-7F695CCB0DEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63218447-20CE-4770-9758-7F695CCB0DEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654346775.70785701</real>
+			<key>timeStoppedRecording</key>
+			<real>654346782.22333801</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>63218447-20CE-4770-9758-7F695CCB0DEB</string>
+		</dict>
+		<key>7F5E5606-EA0C-4566-B5C6-AD77C9310179</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7F5E5606-EA0C-4566-B5C6-AD77C9310179.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654390097.484604</real>
+			<key>timeStoppedRecording</key>
+			<real>654390113.59214401</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7F5E5606-EA0C-4566-B5C6-AD77C9310179</string>
+		</dict>
+		<key>8AE47CA2-6CC4-485A-B8A6-6F99438C80C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AE47CA2-6CC4-485A-B8A6-6F99438C80C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654734861.15685797</real>
+			<key>timeStoppedRecording</key>
+			<real>654734867.10261095</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8AE47CA2-6CC4-485A-B8A6-6F99438C80C1</string>
+		</dict>
+		<key>8B022EA6-5C33-4A1A-BA02-E3750526D14C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B022EA6-5C33-4A1A-BA02-E3750526D14C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654922483.94709098</real>
+			<key>timeStoppedRecording</key>
+			<real>654922485.33554399</real>
+			<key>title</key>
+			<string>Clean MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8B022EA6-5C33-4A1A-BA02-E3750526D14C</string>
+		</dict>
+		<key>9C4CE3FD-396F-4EF8-AA65-7C7014EF4820</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C4CE3FD-396F-4EF8-AA65-7C7014EF4820.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654857048.52218795</real>
+			<key>timeStoppedRecording</key>
+			<real>654857058.50630999</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9C4CE3FD-396F-4EF8-AA65-7C7014EF4820</string>
 		</dict>
 		<key>A136FD4A-A4F0-475D-81AD-50B4161B4BCF</key>
 		<dict>
@@ -142,6 +516,176 @@
 			<key>uniqueIdentifier</key>
 			<string>A2B5DF28-14BA-434A-BE23-8A5793E8AE61</string>
 		</dict>
+		<key>AB67416A-1DB9-465B-A7B8-34C70814D4CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB67416A-1DB9-465B-A7B8-34C70814D4CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654344564.67370498</real>
+			<key>timeStoppedRecording</key>
+			<real>654344566.80559504</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AB67416A-1DB9-465B-A7B8-34C70814D4CE</string>
+		</dict>
+		<key>B4019922-C09C-4F71-A709-62610E4DA31C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4019922-C09C-4F71-A709-62610E4DA31C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654344519.904351</real>
+			<key>timeStoppedRecording</key>
+			<real>654344522.17802894</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B4019922-C09C-4F71-A709-62610E4DA31C</string>
+		</dict>
+		<key>B8FACE88-06DA-4415-9596-095C209A401D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8FACE88-06DA-4415-9596-095C209A401D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654862551.75784898</real>
+			<key>timeStoppedRecording</key>
+			<real>654862560.09748602</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B8FACE88-06DA-4415-9596-095C209A401D</string>
+		</dict>
+		<key>C8F28ED5-0D4E-4527-90CD-01C1580F1DB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8F28ED5-0D4E-4527-90CD-01C1580F1DB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654922996.33839798</real>
+			<key>timeStoppedRecording</key>
+			<real>654923018.23255301</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C8F28ED5-0D4E-4527-90CD-01C1580F1DB7</string>
+		</dict>
+		<key>D575EFC2-2960-4EBC-A188-1E76EDE5682F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D575EFC2-2960-4EBC-A188-1E76EDE5682F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654344661.425053</real>
+			<key>timeStoppedRecording</key>
+			<real>654344662.56688905</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D575EFC2-2960-4EBC-A188-1E76EDE5682F</string>
+		</dict>
 		<key>DC92A436-641F-44DC-AD47-ACE034630B7F</key>
 		<dict>
 			<key>className</key>
@@ -175,6 +719,142 @@
 			<string>Build MenuBarSampleApp</string>
 			<key>uniqueIdentifier</key>
 			<string>DC92A436-641F-44DC-AD47-ACE034630B7F</string>
+		</dict>
+		<key>E7D74DB8-EB71-45C8-BC04-88FFC4EEF8F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7D74DB8-EB71-45C8-BC04-88FFC4EEF8F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654863970.66186905</real>
+			<key>timeStoppedRecording</key>
+			<real>654863970.69825602</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E7D74DB8-EB71-45C8-BC04-88FFC4EEF8F9</string>
+		</dict>
+		<key>EFAB385A-E47C-4A3B-9B7F-7D907BD6449E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFAB385A-E47C-4A3B-9B7F-7D907BD6449E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654863939.17672002</real>
+			<key>timeStoppedRecording</key>
+			<real>654863943.87212896</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EFAB385A-E47C-4A3B-9B7F-7D907BD6449E</string>
+		</dict>
+		<key>F85702E4-17F3-4EE2-B619-7109D5B89BE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F85702E4-17F3-4EE2-B619-7109D5B89BE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654328795.90041399</real>
+			<key>timeStoppedRecording</key>
+			<real>654328806.46279597</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F85702E4-17F3-4EE2-B619-7109D5B89BE2</string>
+		</dict>
+		<key>FC116763-BF97-4060-9F53-179C54E382E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC116763-BF97-4060-9F53-179C54E382E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MenuBarSampleApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MenuBarSampleApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>timeStartedRecording</key>
+			<real>654344600.20807695</real>
+			<key>timeStoppedRecording</key>
+			<real>654344604.180902</real>
+			<key>title</key>
+			<string>Build MenuBarSampleApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FC116763-BF97-4060-9F53-179C54E382E3</string>
 		</dict>
 	</dict>
 </dict>

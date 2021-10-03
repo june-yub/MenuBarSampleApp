@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>9A2D8DD7-5123-418D-AC34-7CAD8F26933F</key>
+		<key>8BB3AB23-76C0-4B64-8D86-116DDE94E06E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>9A2D8DD7-5123-418D-AC34-7CAD8F26933F.xcactivitylog</string>
+			<string>8BB3AB23-76C0-4B64-8D86-116DDE94E06E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>MenuBarSampleApp-egxphxrdtncryccutpnrlbiesait</string>
 			<key>timeStartedRecording</key>
-			<real>654326422.39425898</real>
+			<real>654922997.58536196</real>
 			<key>timeStoppedRecording</key>
-			<real>654326424.00185502</real>
+			<real>654923018.21206903</real>
 			<key>title</key>
 			<string>Build target MenuBarSampleApp</string>
 			<key>uniqueIdentifier</key>
-			<string>9A2D8DD7-5123-418D-AC34-7CAD8F26933F</string>
+			<string>8BB3AB23-76C0-4B64-8D86-116DDE94E06E</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
